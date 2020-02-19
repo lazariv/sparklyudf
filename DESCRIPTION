@@ -6,8 +6,8 @@ Authors@R: c(
     person("Taras", "Lazariv", email = "lazariv.taras@gmail.com", role = c("aut", "cre"))
     )
 Maintainer: Taras Lazariv <lazariv.taras@gmail.com>
-Description: Demonstrates how to build a [sparklyr](http://github.com/rstudio/sparklyr) extension package 
-    that uses custom Scala code which is compiled, deployed to Apache Spark and registered as an UDF that
+Description: Package contains a function for getting the filename when reading files in Spark.
+    This extension package uses custom Scala code which is compiled, deployed to Apache Spark and registered as an UDF that
     can be used in SQL and [dplyr](https://github.com/tidyverse/dplyr).
 License: MIT LICENSE
 Depends:
