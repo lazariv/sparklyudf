@@ -37,7 +37,7 @@ R CMD build sparklyudf
 install.packages("$HOME/R/mypackages/sparklyudf_0.1.0.tar.gz",repos=NULL,type="source")
 ```
 
-#### How to use:
+### How to use:
 
 ```{r}
 library(sparklyudf)
