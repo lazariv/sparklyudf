@@ -1,5 +1,5 @@
 derby.log
-metastore_db
+metastore_db/
 .Rproj.user
 *.Rproj
 .Rhistory
